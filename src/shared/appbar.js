@@ -31,7 +31,7 @@ export default function MainAppBar() {
                             textDecoration: 'none',
                             color: 'white'
                         }}>
-                        Blogsite
+                        BlogRoute
                     </Typography>
                 </div>
                 <Button color="inherit" component={Link} to="/about/">About</Button>
